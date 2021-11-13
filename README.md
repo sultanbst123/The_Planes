@@ -6,6 +6,6 @@ Game yang dibuat untuk khusus untuk handphone, dengan mengunakan pygame
 ## Tampilan 
 
 <p align="center">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"> 
+ <img src="https://github.com/sultanbst123/The_Planes/blob/main/ezgif.com-gif-maker.gif"> 
 </p>
  
