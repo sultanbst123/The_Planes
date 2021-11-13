@@ -1,3 +1,4 @@
 # The_Planes
 
-Belum jadi, file nya kebesaran
+Game yang dibuat untuk khusus untuk handphone, dengan mengunakan pygame 
+
